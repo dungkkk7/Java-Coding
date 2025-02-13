@@ -1,0 +1,2 @@
+CS102,Data Structures,In-Person,Understanding Data Management,2024-02-15,2024-06-15,1200.0,T002
+CS103,Web Development,Online,Building Websites,2024-03-01,2024-07-01,1800.0,T003

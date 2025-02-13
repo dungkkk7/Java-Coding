@@ -1,0 +1,6 @@
+T001,Introduction to Programming,Core,Learn the basics of programming,30
+T002,Data Structures,Core,Understanding data structures and algorithms,45
+T003,Web Development,Elective,Building web applications from scratch,60
+T004,Database Management,Systems,Fundamentals of database systems,40
+T005,Software Engineering,Core,Software development processes and methodologies,50
+T006,Machine Learning,Elective,Introduction to machine learning concepts,55

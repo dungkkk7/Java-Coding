@@ -1,0 +1,5 @@
+He190001;	Vu Van Huy;	18;	9.5;	passed
+He190005;	Pham Thanh Nam;	22;	7.0;	passed
+He190006;	Bui Van Tan;	18;	8.7;	passed
+He190011;	Nguyen Hong An;	18;	4.5;	Not passed
+He190010;	Vu Minh Tuan;	18;	8.0;	passed

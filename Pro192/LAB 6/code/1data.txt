@@ -1,0 +1,10 @@
+He190001; vu van huy; 18; 9.5
+He190002; nguyen thi lan; 20; 8.2
+He190003; tran minh duc; 19; 7.8
+He190004; le thi hong; 21; 8.5
+He190005; pham thanh nam; 22; 7.0
+He190006; bui van tan; 18; 8.7
+He190007; hoang thi mai; 20; 7.5
+He190008; dang quoc huy; 19; 8.3
+He190009; nguyen thu huong; 21; 7.9
+He190010; vu minh tuan; 18; 8.0

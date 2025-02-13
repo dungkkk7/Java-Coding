@@ -1,0 +1,5 @@
+HE12;	Nguyen Van A;	19;	9.0
+HE13;	Pham Van B;	19;	4.5
+HE15;	Phan Mai C;	19;	9.5
+HE17;	Nguyen Thai Tuan;	19;	9.5
+HE18;	Duong Anh Nga;	18;	9.0
